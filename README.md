@@ -1,4 +1,4 @@
-
+![logo](https://github.com/inzu636/inzu636/blob/main/Github%20Banner.png.jpg)
 <h1 align="center">Hi 👋, I'm Inzamamul Haque</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
